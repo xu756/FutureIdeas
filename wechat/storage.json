@@ -1,1 +1,214 @@
-{"Jar":{"PsList":null,"Entries":{"qq.com":{"qq.com;/;webwx_data_ticket":{"Name":"webwx_data_ticket","Value":"gSf89WQEoyMdhgMxCTat/9hH","Domain":"qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2023-11-01T20:11:58Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:58.176941+08:00"},"qq.com;/;wxuin":{"Name":"wxuin","Value":"2322845167","Domain":"qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2023-11-01T19:36:55Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:57.907257+08:00"},"wx2.qq.com;/;mm_lang":{"Name":"mm_lang","Value":"zh_CN","Domain":"wx2.qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2023-11-01T19:36:55Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:57.907257+08:00"},"wx2.qq.com;/;webwx_auth_ticket":{"Name":"webwx_auth_ticket","Value":"CIsBEJqR9K8KGoABYypAQqwjK1M03v2Lc35Jfr6DmGAWBpaIaQO79OSgopsA5+H97ma/CAMQN2ZItAn41aa68VDjN+oG6xUKOSkXvCYfDqr6C2oq5SLAaA5ekZsTp/DhzcVuzGYxv3p1kElg+CnhvSQT1cEOfkcPiKCjg3tmHpldX2s+ZFwNWjeaPzE=","Domain":"wx2.qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2033-10-29T07:36:55Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:57.907257+08:00"},"wx2.qq.com;/;webwxuvid":{"Name":"webwxuvid","Value":"e04b23eb088a097f83742127d7537133ce0e7982d32ff214a3e120584a8c143fd1b1be19c5cfcb153d8b6768bd1b3743","Domain":"wx2.qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2033-10-29T04:16:49Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:57.907257+08:00"},"wx2.qq.com;/;wxloadtime":{"Name":"wxloadtime","Value":"1698824215_expired","Domain":"wx2.qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2023-11-01T19:37:02Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:57.907257+08:00"},"wx2.qq.com;/;wxpluginkey":{"Name":"wxpluginkey","Value":"1698820209","Domain":"wx2.qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2023-11-01T20:11:58Z","Creation":"2023-11-01T12:16:52.656943+08:00","LastAccess":"2023-11-01T16:11:58.176941+08:00"},"wx2.qq.com;/;wxsid":{"Name":"wxsid","Value":"jAevCFkTCBvpXr86","Domain":"wx2.qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2023-11-01T20:11:58Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:58.176941+08:00"},"wx2.qq.com;/;wxuin":{"Name":"wxuin","Value":"2322845167","Domain":"wx2.qq.com","Path":"/","SameSite":"","Secure":true,"HttpOnly":false,"Persistent":true,"HostOnly":false,"Expires":"2023-11-04T08:11:58Z","Creation":"2023-11-01T12:16:49.562613+08:00","LastAccess":"2023-11-01T16:11:58.176941+08:00"}}},"NextSeqNum":9},"BaseRequest":{"Uin":2322845167,"Sid":"jAevCFkTCBvpXr86","Skey":"@crypt_f510ed7_d67ed4a6996ea83b7f16f2ccce4c99b1","DeviceID":"e025103837312056"},"LoginInfo":{"Ret":0,"WxUin":2322845167,"IsGrayScale":1,"Message":"","SKey":"@crypt_f510ed7_d67ed4a6996ea83b7f16f2ccce4c99b1","WxSid":"jAevCFkTCBvpXr86","PassTicket":"%2BKE1m7jTf3Sd14K6BmjOlfvptfovm6rVhW7EPwttQubHIpZ2801aRvn%2FZp0jh9DzXh4Vdw903sREVHxgiT%2FnMg%3D%3D"},"WechatDomain":"wx2.qq.com","SyncKey":{"Count":14,"List":[{"Key":1,"Val":787488340},{"Key":2,"Val":787488954},{"Key":3,"Val":787488725},{"Key":11,"Val":787488727},{"Key":19,"Val":33944},{"Key":23,"Val":1698824215},{"Key":24,"Val":1698826317},{"Key":25,"Val":787488954},{"Key":27,"Val":177640},{"Key":201,"Val":1698826317},{"Key":203,"Val":1698824198},{"Key":206,"Val":103},{"Key":1000,"Val":1698820209},{"Key":1001,"Val":1698823861}]},"UUID":"gZ_gYhxaiQ=="}
+{
+    "Jar": {
+        "PsList": null,
+        "Entries": {
+            "qq.com": {
+                "qq.com;/;webwx_data_ticket": {
+                    "Name": "webwx_data_ticket",
+                    "Value": "gSf89WQEoyMdhgMxCTat/9hH",
+                    "Domain": "qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2023-11-01T20:11:58Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:58.176941+08:00"
+                },
+                "qq.com;/;wxuin": {
+                    "Name": "wxuin",
+                    "Value": "2322845167",
+                    "Domain": "qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2023-11-01T19:36:55Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:57.907257+08:00"
+                },
+                "wx2.qq.com;/;mm_lang": {
+                    "Name": "mm_lang",
+                    "Value": "zh_CN",
+                    "Domain": "wx2.qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2023-11-01T19:36:55Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:57.907257+08:00"
+                },
+                "wx2.qq.com;/;webwx_auth_ticket": {
+                    "Name": "webwx_auth_ticket",
+                    "Value": "CIsBEJqR9K8KGoABYypAQqwjK1M03v2Lc35Jfr6DmGAWBpaIaQO79OSgopsA5+H97ma/CAMQN2ZItAn41aa68VDjN+oG6xUKOSkXvCYfDqr6C2oq5SLAaA5ekZsTp/DhzcVuzGYxv3p1kElg+CnhvSQT1cEOfkcPiKCjg3tmHpldX2s+ZFwNWjeaPzE=",
+                    "Domain": "wx2.qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2033-10-29T07:36:55Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:57.907257+08:00"
+                },
+                "wx2.qq.com;/;webwxuvid": {
+                    "Name": "webwxuvid",
+                    "Value": "e04b23eb088a097f83742127d7537133ce0e7982d32ff214a3e120584a8c143fd1b1be19c5cfcb153d8b6768bd1b3743",
+                    "Domain": "wx2.qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2033-10-29T04:16:49Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:57.907257+08:00"
+                },
+                "wx2.qq.com;/;wxloadtime": {
+                    "Name": "wxloadtime",
+                    "Value": "1698824215_expired",
+                    "Domain": "wx2.qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2023-11-01T19:37:02Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:57.907257+08:00"
+                },
+                "wx2.qq.com;/;wxpluginkey": {
+                    "Name": "wxpluginkey",
+                    "Value": "1698820209",
+                    "Domain": "wx2.qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2023-11-01T20:11:58Z",
+                    "Creation": "2023-11-01T12:16:52.656943+08:00",
+                    "LastAccess": "2023-11-01T16:11:58.176941+08:00"
+                },
+                "wx2.qq.com;/;wxsid": {
+                    "Name": "wxsid",
+                    "Value": "jAevCFkTCBvpXr86",
+                    "Domain": "wx2.qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2023-11-01T20:11:58Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:58.176941+08:00"
+                },
+                "wx2.qq.com;/;wxuin": {
+                    "Name": "wxuin",
+                    "Value": "2322845167",
+                    "Domain": "wx2.qq.com",
+                    "Path": "/",
+                    "SameSite": "",
+                    "Secure": true,
+                    "HttpOnly": false,
+                    "Persistent": true,
+                    "HostOnly": false,
+                    "Expires": "2023-11-04T08:11:58Z",
+                    "Creation": "2023-11-01T12:16:49.562613+08:00",
+                    "LastAccess": "2023-11-01T16:11:58.176941+08:00"
+                }
+            }
+        },
+        "NextSeqNum": 9
+    },
+    "BaseRequest": {
+        "Uin": 2322845167,
+        "Sid": "jAevCFkTCBvpXr86",
+        "Skey": "@crypt_f510ed7_d67ed4a6996ea83b7f16f2ccce4c99b1",
+        "DeviceID": "e025103837312056"
+    },
+    "LoginInfo": {
+        "Ret": 0,
+        "WxUin": 2322845167,
+        "IsGrayScale": 1,
+        "Message": "",
+        "SKey": "@crypt_f510ed7_d67ed4a6996ea83b7f16f2ccce4c99b1",
+        "WxSid": "jAevCFkTCBvpXr86",
+        "PassTicket": "%2BKE1m7jTf3Sd14K6BmjOlfvptfovm6rVhW7EPwttQubHIpZ2801aRvn%2FZp0jh9DzXh4Vdw903sREVHxgiT%2FnMg%3D%3D"
+    },
+    "WechatDomain": "wx2.qq.com",
+    "SyncKey": {
+        "Count": 14,
+        "List": [
+            {
+                "Key": 1,
+                "Val": 787488340
+            },
+            {
+                "Key": 2,
+                "Val": 787488954
+            },
+            {
+                "Key": 3,
+                "Val": 787488725
+            },
+            {
+                "Key": 11,
+                "Val": 787488727
+            },
+            {
+                "Key": 19,
+                "Val": 33944
+            },
+            {
+                "Key": 23,
+                "Val": 1698824215
+            },
+            {
+                "Key": 24,
+                "Val": 1698826317
+            },
+            {
+                "Key": 25,
+                "Val": 787488954
+            },
+            {
+                "Key": 27,
+                "Val": 177640
+            },
+            {
+                "Key": 201,
+                "Val": 1698826317
+            },
+            {
+                "Key": 203,
+                "Val": 1698824198
+            },
+            {
+                "Key": 206,
+                "Val": 103
+            },
+            {
+                "Key": 1000,
+                "Val": 1698820209
+            },
+            {
+                "Key": 1001,
+                "Val": 1698823861
+            }
+        ]
+    },
+    "UUID": "gZ_gYhxaiQ=="
+}
