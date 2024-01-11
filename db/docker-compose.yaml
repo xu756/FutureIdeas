@@ -1,0 +1,51 @@
+version: "3"
+
+networks:
+  env_net:
+    external: true
+
+services:
+  postgresql:
+    image: bitnami/postgresql:15.5.0
+    container_name: postgresql
+    restart: always
+    environment:
+      POSTGRESQL_USERNAME: root
+      POSTGRESQL_PASSWORD: fyU0bj2KLndYN6CKYubb
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data/postgresql-data:/bitnami/postgresql
+    networks:
+      - env_net
+
+  # mysql:
+  #   image: bitnami/mysql:8.1
+  #   container_name: mysql
+  #   ports:
+  #     - "3306:3306"
+  #   volumes:
+  #     - ./data/mysql-data:/bitnami/mysql/data
+  #   environment:
+  #     MYSQL_ROOT_PASSWORD: fyU0bj2KLndYN6CKYubb
+  #   restart: always
+  #   healthcheck:
+  #     test: ["CMD", "/opt/bitnami/scripts/mysql/healthcheck.sh"]
+  #     interval: 15s
+  #     timeout: 5s
+  #     retries: 6
+  #   networks:
+  #     - env_net
+
+  redis:
+    image: bitnami/redis:7.2
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./data/redis-data:/bitnami/redis/data
+    networks:
+      - env_net
+    environment:
+      REDIS_PASSWORD: Y5dg5tg8050oigInC30sf
