@@ -49,3 +49,30 @@ services:
       - env_net
     environment:
       REDIS_PASSWORD: Y5dg5tg8050oigInC30sf
+  # etcd:
+  #   image: bitnami/etcd:latest
+  #   container_name: etcd
+  #   restart: always
+  #   ports:
+  #     - "2379:2379"
+  #     - "2380:2380"
+  #   environment:
+  #    ALLOW_NONE_AUTHENTICATION: yes
+  #    ETCD_ADVERTISE_CLIENT_URLS: http://etcd:2379
+  #   networks:
+  #     - env_net
+  rabbitmq:
+    image: bitnami/rabbitmq:3.12
+    ports:
+      - '5672:5672'
+      - '15672:15672'
+    environment:
+      RABBITMQ_SECURE_PASSWORD: no      
+      RABBITMQ_USERNAME: admin
+      RABBITMQ_PASSWORD: admin123456
+      RABBITMQ_MANAGEMENT_ALLOW_WEB_ACCESS: true
+      # RABBITMQ_MANAGEMENT_BIND_IP: 0.0.0.0
+    volumes:
+      - ./data/rabbitmq-data:/bitnami/rabbitmq/mnesia
+    networks:
+      - env_net
