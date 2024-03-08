@@ -68,8 +68,8 @@ services:
       - '15672:15672'
     environment:
       RABBITMQ_SECURE_PASSWORD: no      
-      RABBITMQ_USERNAME: xu756
-      RABBITMQ_PASSWORD: xjx756756
+      RABBITMQ_USERNAME: root
+      RABBITMQ_PASSWORD: PTXzAMnVe7bdYj
       RABBITMQ_MANAGEMENT_ALLOW_WEB_ACCESS: true
       # RABBITMQ_MANAGEMENT_BIND_IP: 0.0.0.0
     volumes:
